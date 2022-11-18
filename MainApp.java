@@ -7,7 +7,7 @@ public class MainApp{
 			
 			System.out.println("This is Java Jenkins Demo");
 
-			System.out.println("Message : "+message);
+			System.out.println("Message : "+map.message);
 		}
 
 }
